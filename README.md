@@ -1,5 +1,1 @@
-Meu primeiro sistema GIT.
-
-ALTERAÇÃO FEITA NA MASTER
-
-FIZ ALTERAÇÕES, DELETEI COISA
+Repositório criado apenas para estudo de Git e GitHub.
